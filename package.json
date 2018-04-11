@@ -1,7 +1,7 @@
 {
   "name": "tree-view-focus-editor",
   "main": "./lib/tree-view-focus-editor",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Single click on a file in Tree View will preview/open the file and focus on it in the editor.",
   "keywords": [
     "tree-view",
